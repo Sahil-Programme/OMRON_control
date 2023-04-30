@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\dev\c++\OMRON_control\build\CMakeFiles\ef7ccdbfee6505ca9890e1440181004a\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EF9A3610-829A-3B08-9D07-E2FD0B77286C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
